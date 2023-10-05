@@ -1,0 +1,4 @@
+com\mycompany\ejemplo\PrimaryController.class
+module-info.class
+com\mycompany\ejemplo\SecondaryController.class
+com\mycompany\ejemplo\App.class
